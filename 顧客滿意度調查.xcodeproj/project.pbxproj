@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5594DFE2AEF998200A93DB8 /* 顧客滿意度調查 in Resources */ = {isa = PBXBuildFile; fileRef = A5594DFD2AEF998200A93DB8 /* 顧客滿意度調查 */; };
 		A5CC224A2AB06A2700F9070D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CC22492AB06A2700F9070D /* AppDelegate.swift */; };
 		A5CC224C2AB06A2700F9070D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CC224B2AB06A2700F9070D /* SceneDelegate.swift */; };
 		A5CC224E2AB06A2700F9070D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CC224D2AB06A2700F9070D /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A5594DFD2AEF998200A93DB8 /* 顧客滿意度調查 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "顧客滿意度調查"; sourceTree = "<group>"; };
 		A5CC22462AB06A2700F9070D /* 顧客滿意度調查.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "顧客滿意度調查.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5CC22492AB06A2700F9070D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A5CC224B2AB06A2700F9070D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				A5CC22492AB06A2700F9070D /* AppDelegate.swift */,
 				A5CC224B2AB06A2700F9070D /* SceneDelegate.swift */,
 				A5CC224D2AB06A2700F9070D /* ViewController.swift */,
+				A5594DFD2AEF998200A93DB8 /* 顧客滿意度調查 */,
 				A5CC224F2AB06A2700F9070D /* Main.storyboard */,
 				A5CC22522AB06A2900F9070D /* Assets.xcassets */,
 				A5CC22542AB06A2900F9070D /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5594DFE2AEF998200A93DB8 /* 顧客滿意度調查 in Resources */,
 				A5CC22562AB06A2900F9070D /* LaunchScreen.storyboard in Resources */,
 				A5CC22532AB06A2900F9070D /* Assets.xcassets in Resources */,
 				A5CC22512AB06A2700F9070D /* Main.storyboard in Resources */,
